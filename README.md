@@ -51,13 +51,13 @@ error [!fatal-error ERROR_NO_SPACE_ON_BLOCK]
 ... :error [!fatal-error ERROR_NO_SPACE_ON_BLOCK]}
 ```
 
-See the Clojure (HACKER
-documentation)[http://logical.ai/auai/doc/doc-hacker.html] page for
+See the Clojure [HACKER
+documentation](http://logical.ai/auai/doc/doc-hacker.html) page for
 more examples.
 
 ### Documentation
 
-(HACKER)[http://logical.ai/auai/doc/doc-hacker.html]
+[HACKER](http://logical.ai/auai/doc/doc-hacker.html)
 
 ### To Do
 
